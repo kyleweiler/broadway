@@ -11,6 +11,7 @@ p{
 
 h1{
   font-size: 70px;
+  color: white;
 }
 
 h2{
@@ -27,7 +28,6 @@ a{
 
 .banner{
   background-image: url("../images/banner.png");
-  color: white;
 }
 
 #copy{
