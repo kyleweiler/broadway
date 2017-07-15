@@ -1,7 +1,30 @@
 body{
   text-align: center;
+  font-family: helvetica, sans-serif;
+  font-weight: bold;
+}
+
+p{
+  font-weight: normal;
+  font-size: 14px;
 }
 
 h1{
-  font-size: 50px;
+  font-size: 70px;
+}
+
+h2{
+  font-size: 32px:
+}
+
+h3{
+  font-size: 23px;
+}
+
+a{
+  color: white;
+}
+
+.banner{
+  background-image: url("resources/images/banner.png");
 }
