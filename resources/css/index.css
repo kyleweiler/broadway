@@ -27,4 +27,16 @@ a{
 
 .banner{
   background-image: url("../images/banner.png");
+  color: white;
+}
+
+#copy{
+  font-size: 11px;
+}
+
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+
 }
