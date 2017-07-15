@@ -21,13 +21,8 @@ h3{
   font-size: 23px;
 }
 
-a{
-  color: white;
-}
-
 .banner{
   background-image: url("../images/banner.png");
-  color: white;
 }
 
 #copy{
@@ -37,6 +32,8 @@ a{
 .footer{
   text-align: left;
   background-color: dimgray;
-  color: white;
+}
 
+.footer, .banner, a{
+  color: white;
 }
